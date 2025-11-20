@@ -1,15 +1,4 @@
 # AgriScan Reinforcement Learning Summative
-1. Overview
-
-This project applies Reinforcement Learning to a custom environment inspired by the AgriScan mission. AgriScan is an AI-powered tool that helps smallholder farmers diagnose crop diseases and nutrient deficiencies.
-
-A simplified plant-health simulation was built using Gymnasium, and four RL algorithms were trained and compared:
-
-DQN (Value-Based)
-
-PPO (Policy Gradient)
-
-A2C (Actor-Critic)
 
 REINFORCE (Custom Implementation)
 
