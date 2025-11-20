@@ -1,0 +1,22 @@
+# Python venv
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Model files (optional; keep them if you want)
+models/**/*.zip
+models/**/*.pt
+
+# Pygame window screenshots
+*.png
+
+# OS junk files
+Thumbs.db
+.DS_Store
