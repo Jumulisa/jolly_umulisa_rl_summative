@@ -136,7 +136,7 @@ The required video includes:
 - Showing terminal rewards and Pygame GUI
 - Face camera on and full screen shared
 
-
+## Here is the link to the video https://drive.google.com/file/d/1J5VpVFVKRRsNIvT1EnAXz7ssfWMDT9Xn/view?usp=sharing    
 
 ## 10. License
 Academic submission for the Mission-Based Reinforcement Learning Summative.  
